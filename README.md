@@ -41,7 +41,7 @@ The number of employees at Pewlett Hackard is 300,024, and 72,458 employees will
 
 Fig:Total Employees Titles Table
 
-Pewlett Hackard has 1,549 employees to become mentors to future employees. We can’t assume that everyone eligible for the program will be willing to participate. As we can see, 169 senior engineers and 569 senior staff are qualified for the mentorship program to train employees before the upcoming massive retirement trend. When we compare other positions, the numbers seem to be less. Based on the numbers, we can say there are not enough employees for the mentorship program.
+Pewlett Hackard has 1,549 employees to become mentors to future employees. We can’t assume that everyone eligible for the program will be willing to participate. As we can see, 169 senior engineers and 569 senior staff are qualified for the mentorship program to train employees before the upcoming massive retirement trend. When we compare other positions (retiring titles vs. mentorship eligibility titles), the numbers seem to be lesser than we expected. Based on the numbers, we can say there are not enough employees for the mentorship program.
 
 ![](https://github.com/smzd/Pewlett_Hackard_Analysis/blob/main/Resources/png_files/mentorship_eligibility_group.png)
 
