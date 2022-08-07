@@ -4,7 +4,7 @@ We are exploring Pewlett Hackard employee data to design ERD and create an SQL d
 
 ![](https://github.com/smzd/Pewlett_Hackard_Analysis/blob/main/Resources/png_files/employeeDB.png)
 
-Fig:ERD Diagram
+Fig: ERD Diagram
 
                                                #Analysis
 
@@ -12,7 +12,7 @@ Fig:ERD Diagram
 
 ![](https://github.com/smzd/Pewlett_Hackard_Analysis/blob/main/Resources/png_files/retirement_title.png)
 
-Fig:Retirement Titles Table
+Fig: Retirement Titles Table
 
 •	To remove the duplicate entries from retirement titles. The DISTINCT ON function was used on the retirement title table and created a table named unique titles. 
 
@@ -30,7 +30,7 @@ Fig: Retiring Titles Table
 
 ![](https://github.com/smzd/Pewlett_Hackard_Analysis/blob/main/Resources/png_files/mentorship_eligibility.png)
 
-Fig:Mentorship Eligibility Table
+Fig: Mentorship Eligibility Table
 
 
                                                  #Summary
@@ -45,4 +45,4 @@ Pewlett Hackard has 1,549 employees to become mentors to future employees. We ca
 
 ![](https://github.com/smzd/Pewlett_Hackard_Analysis/blob/main/Resources/png_files/mentorship_eligibility_group.png)
 
-Fig: Mentorship Eligibility Titles table
+Fig: Mentorship Eligibility Titles Table
