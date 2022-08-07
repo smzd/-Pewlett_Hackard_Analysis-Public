@@ -26,7 +26,7 @@ Fig: Unique Titles Table
 
 Fig: Retiring Titles Table
 
-•	We also ran a query and built a table named mentorship eligibility. As shown below, we have 1,549 rows/ individuals that can train other employees.
+•	We also ran a query and built a table named mentorship eligibility. As shown below, we have 1,549 rows/ individuals that can mentor other employees.
 
 ![](https://github.com/smzd/Pewlett_Hackard_Analysis/blob/main/Resources/png_files/mentorship_eligibility.png)
 
